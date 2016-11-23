@@ -1,0 +1,6 @@
+## Types of Commits AND Branches
+
+* chore - build process cleanup, update comments, etc
+* refactor - change structure for clarity or performance
+* feat - adds new features
+* fix - fix a bug or correct a problem 
